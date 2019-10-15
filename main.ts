@@ -4,7 +4,7 @@
 
 
 //% color="#228B22" weight=25 icon="\uf0b2"
-namespace CrocoKit_Sensor {
+namespace iLogicbots_Sensor {
 
     const COLOR_ADD = 0X53;
     const COLOR_REG = 0x00;
