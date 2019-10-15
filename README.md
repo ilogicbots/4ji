@@ -1,6 +1,6 @@
 # iLogicbots 4Plus
 
-Extension foriLogicbots 4Plus V1.1
+Extension for iLogicbots 4Plus V1.1
 
 ## License
 
