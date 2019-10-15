@@ -1,6 +1,6 @@
-# YB_Croco:Kit
+# iLogicbots 4Plus
 
-Extension for Yahboom YB_Croco:Kit V1.1
+Extension foriLogicbots 4Plus V1.1
 
 ## License
 
